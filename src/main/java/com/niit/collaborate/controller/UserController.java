@@ -1,4 +1,4 @@
-package com.niit.collaborate.restcontroller;
+package com.niit.collaborate.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

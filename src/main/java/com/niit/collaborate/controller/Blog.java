@@ -1,4 +1,4 @@
-package com.niit.collaborate.restcontroller;
+package com.niit.collaborate.controller;
 
 import java.util.Date;
 
